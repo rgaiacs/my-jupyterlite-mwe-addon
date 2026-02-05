@@ -340,7 +340,7 @@ packages:
 - pypi: ./
   name: my-jupyterlite-mwe-addon
   version: 0.1.0
-  sha256: e5ee2d1ee305e2be40236c417d0194e3dead568c96e29ba10a8ac84ceb7d5779
+  sha256: 33675f4c013902154bd6dbaa616cbca6f5b7ab9d738e21c8ca0230b0dac612c9
   requires_dist:
   - jupyterlite
   requires_python: '>=3.11'
