@@ -1,2 +1,7 @@
-# my-jupyterlite-mwe-addon
-Minimal working example of addon for JupyterLite
+# Minimal working example of addon for JupyterLite
+
+## Usage
+
+```bash
+pixi run jupyter lite status
+```
